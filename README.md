@@ -5,9 +5,7 @@
 *Thanks to Zindi, Women in Big Data, HERE Technologies and Microsoft for this challenge and opportunity to improve livelihoods using Data Science*
 
 ### Challenges faced:
- - Feature engineering did not yield good results
  - There was no correlation between local cross validation and the leaderbaord, so it was challenging to know how good a model is and whether it was overfitting
- - Using all the data for training yielded worse results
  - It was very challenging to get new data from the recommended HERE and XYZ apis.
  
 ### Approach used:
