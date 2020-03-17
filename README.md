@@ -1,4 +1,4 @@
-## [Lucille Kaleha ](https://www.linkedin.com/in/lucillekaleha/): **Solution for the Womxn in Big Data South Africa competition**
+## [Lucille Kaleha ](https://www.linkedin.com/in/lucillekaleha/): **Solution for the Womxn in Big Data South Africa Competition**
 
 
 ---
